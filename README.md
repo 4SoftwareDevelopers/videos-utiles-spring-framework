@@ -68,6 +68,8 @@ Este repositorio busca:
 
 [Paginación de registros con Spring Boot, Thymeleaf & Bootstrap](https://youtu.be/cQP4SPmcc8A) por [4SD](https://youtube.com/4softwaredevelopers)
 
+[CRUD Spring Data REST](https://youtu.be/m09MzjkAXf8) por [4SD](https://youtube.com/4softwaredevelopers)
+
 ## Contribuir
 
 De momento agregamos a esta lista recursos que pertenecen [a nuestro canal de Youtube](https://youtube.com/4SoftwareDevelopers), sin embargo. La invitación es que contribuyas y nos ayudes a agregar otros recursos que consideres valiosos para la comunidad.
